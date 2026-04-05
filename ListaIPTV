@@ -1,0 +1,63 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz" size="Medium"
+
+################################################################################# Globo
+
+################################################################################# Abertos
+
+#EXTINF:-1 tvg-id="Globo.HD" tvg-logo="https://canaistop.blog/wp-content/uploads/2024/01/tv-globo-ao-vivo-online-bbb24-ao-vivo-bbb-ao-vivo-bbb24aovivo-online.fw_.png" group-title="Abertos",Globo.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/8caed58e9888135cc5522fd6564b8745/globorj.txt
+
+#EXTINF:-1 tvg-id="SBT.HD" tvg-logo="https://i.imgur.com/9POMYYK.png" group-title="Abertos",SBT.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/bab4240bf25541fe05897176420a8153/sbt.txt
+
+#EXTINF:-1 tvg-id="RECORD.HD" tvg-logo="https://i.imgur.com/cBb5xM0.png" group-title="Abertos",Record.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/e74e2ef223f1097dd8bfbff9f3c16662/record.txt
+
+#EXTINF:-1 tvg-id="Rede TV.HD" tvg-logo="https://img.favpng.com/13/19/10/redetv-recife-logo-tv-cultura-png-favpng-eB9PcCNXfuRp8z8JiKwX6gdvU.jpg" group-title="Abertos",Rede TV.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/34d63f49168952b27d6ac6e494ee8d36/redetv.txt
+
+#EXTINF:-1 tvg-id="TV Cultura.HD" tvg-logo="https://img.favpng.com/25/9/16/tv-cultura-logo-culture-brazil-television-png-favpng-YKmYSfr7U964KigjMEfQWfv2q_t.jpg" group-title="Abertos",TV Cultura.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/322e05ce72e525598f00b86dac7626fb/cultura.txt
+
+#EXTINF:-1 tvg-id="Band.HD" tvg-logo="https://img.favpng.com/24/6/15/tv-bandeirantes-campinas-logo-tv-bandeirantes-rio-de-janeiro-png-favpng-JzEN24XHZxAaSHWbfquHjsg6N_t.jpg" group-title="Abertos",Band.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/46a97d72ab166006e32e7ee5afa06e91/band.txt
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos",
+################################################################################ Esportes
+
+#EXTINF:-1 tvg-id="SporTV.HD" tvg-logo="https://canaistop.blog/wp-content/uploads/2022/05/sportvaovivo-sportv-ao-vivo-sportv-ao-vivo-sportv-ao-vivo.fw_.png" group-title="Esportes",SporTV.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/7c66c131310e70a92b1f14f0aa8c1695/sportv.txt
+
+
+
+################################################################################ Filmes
+
+#EXTINF:-1 tvg-id="Telecine Pipoca.HD" tvg-logo="https://canaistop.blog/wp-content/uploads/2022/05/assistir-telecine-pipoca-ao-vivo-telecine-pipoca-ao-vivo-online.fw_.png" group-title="Filmes",Telecine Pipoca.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/5d668f41bd0aa134925947033b1d0743/telecinepipoca.txt
+
+#EXTINF:-1 tvg-id="AXN.HD" tvg-logo="https://img.favpng.com/4/0/9/axn-television-channel-logo-sony-pictures-png-favpng-jNjTYbyRSLhHHmZvi6vZQvNYe_t.jpg" group-title="Filmes e Séries",AXN.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/cdc3984a08a792c3b1502af068f9a9f8/axn.txt
+
+#EXTINF:-1 tvg-id="HBO.HD" tvg-logo="https://img.favpng.com/19/12/11/hbo-television-cinemax-film-png-favpng-3LMjkgvErJBvrAndMZjTD3NE4_t.jpg" group-title="Filmes e Séries",HBO.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/cb8eebfe4ad2b5eeb3c61f84739704c2/hbo.txt
+
+#EXTINF:-1 tvg-id="HBO 2.HD" tvg-logo="https://img.favpng.com/19/24/14/hbo-2-television-show-streaming-media-png-favpng-w6NG7MNhKBv2JQqxyvGiw5vv8_t.jpg" group-title="Filmes e Séries",HBO 2.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/fa02a8e7d55698114dd85ae4b00284ee/hbo2.txt
+
+#EXTINF:-1 tvg-id="HBO Family.HD" tvg-logo="https://img.favpng.com/19/0/0/logo-hbo-brasil-hbo-family-hbo-2-png-favpng-jJJiw4sNTdMwzZC1B1q7zVu5F_t.jpg" group-title="Filmes e Séries",HBO Family.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/d897878023f69f8e148395d735082df4/hbofamily.txt
+
+#EXTINF:-1 tvg-id="HBO Plus.HD" tvg-logo="https://img.favpng.com/6/0/7/logo-product-design-brand-font-png-favpng-TzGpPJ3wb9C0BZnBcGAgZnueh_t.jpg" group-title="Filmes e Séries",HBO Plus.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/2f3cc6cb9f6284617cfef9127289ebe3/hboplus.txt
+
+#EXTINF:-1 tvg-id="HBO Xtreme.HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Filmes e Séries",HBO Xtreme.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/2b34ac5494b0e774df5c3cde05871188/hboxtreme.txt
+
+#EXTINF:-1 tvg-id="Megapix.HD" tvg-logo="https://assets.b9.com.br/wp-content/uploads/2015/07/mega1-920x517.jpg" group-title="Filmes e Séries",Megapix.HD
+https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/d892eda2f7926023a74cc9a7e015c780/megapix.txt
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",
