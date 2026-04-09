@@ -4,8 +4,7 @@
 ################################################################################# Abertos
 
 #EXTINF:-1 tvg-id="Globo.HD" tvg-logo="https://i.pinimg.com/564x/45/e4/1f/45e41f3ce7f07be4bfd3ee7617f3de17.jpg" group-title="Abertos",Globo.HD
-https://d1muf25xa04so8hp04.s27-usa-cloudfront-net.online/token/8caed58e9888135cc5522fd6564b8745/globorj.txt
-
+https://live-01.gtce-conecta-sji-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZ3RjZS1jb25lY3RhLXNqaS1tZy52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NzU3MjAyMzcsImlhdCI6MTc3NTY5ODYzNywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiIwMzhjZGQxNS1jOGY0LTQ2ZGQtYTdjMi05NzdiN2Y5ZTk3YjYiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dsb2JvLXZhci9wbGF5bGlzdC5tM3U4In0.R-mKuv0pQy6V_Z00tUM1XcOOSZ2fm7FswnO3_Ri1M3eGCiI5ZEUSrBBhfhjaYBgUlBCI3qs8tjWgdCo6cEivr0FGoEObn17k-7gqxcEJQyjed2prEgSrd-4ZzarVE6wUW3F5qfeQ9UvIkw8HV3nViQFAJKcEPfkXNEDhCk--sJLdip3toBdf4e25bkvzdKZMjhEdB1V_an7KN8ZzLcptzwpMxhEuCnaSv1ktGfLwIO6G8-IFVUL8aM513_2wfkOff4VpzIyYRfITsQWtXut1o9lbqCCTpSpr4LnX0-_S3Ks7ezhV-_nbdyHLlt3AL3qNThaeakwvCz1WI2NqALWBEg/live/f(i=2)/globo-var/globo-var-audio_1=96000-video=3442944.m3u8
 #EXTINF:-1 tvg-id="Band.HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLNtlNLnzz9BgMCfd6Rbm2hSuCi4nJ-mmLg&s" group-title="Abertos",Band.HD
 https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/2f308b782810170697f1b8d28b40d844/band.txt
 
